@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "0.7601206164982466",
+      "name": "Mariam",
+      "email": "m@gmail.com"
+    },
+    {
+      "id": "0.521206895362391",
+      "name": "Adewale",
+      "email": "ade@gmail.com"
+    },
+    {
+      "id": "0.8344129219097691",
+      "name": "Ibikunle",
+      "email": "ibk@gmail.com"
+    },
+    {
+      "id": 0.1729492764243048,
+      "name": "Pogba",
+      "email": "po@gmail.com"
+    }
+  ]
+}
